@@ -1,4 +1,4 @@
-# Job data related comparison
+# Comparison among data-related jobs
 
 
 Questions based on the dataset `jobs_in_data.csv`, 
@@ -6,7 +6,7 @@ Questions based on the dataset `jobs_in_data.csv`,
 Salary and Compensation
 
 1. What is the average salary (in USD) for different job titles?
-   - Query to calculate and compare average salaries for job like "Data Scientist"
+   - Query to calculate and compare average salaries for jobs like "Data Scientist"
 
 2. How does the average salary (in USD) vary by job category?
    - Query to find out which job category (e.g., Data Engineering, Data Science, Data Architecture) offers the highest and lowest average salaries.
@@ -49,8 +49,8 @@ Employment Types and Experience Levels
 
 Advanced Analytics
 
-13. What are the top paying job titles in each country?
-    - Query to identify the highest paying job titles within each country.
+13. What are the top-paying job titles in each country?
+    - Query to identify the highest-paying job titles within each country.
 
 14. Is there a significant salary difference between jobs in different job categories within the same company size?
     - Query to compare salaries across job categories within small, medium, and large companies.
